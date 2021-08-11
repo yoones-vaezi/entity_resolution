@@ -2,7 +2,7 @@
 
 The steps taken to solve the entity resolution problem include:
 
-1- explore and clean the datasets. More details can be found in teh notebook provided.
+1- explore and clean the datasets. More details can be found in the notebook provided.
 This includes:
 
 >- a- removing duplicate identifiers. 
